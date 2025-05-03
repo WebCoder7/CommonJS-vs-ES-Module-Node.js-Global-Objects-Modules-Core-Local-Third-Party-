@@ -1,3 +1,3 @@
-import { getCurrentYear, getCurrentMonth } from "./dateUtils.js";
-console.log(getCurrentYear());
-console.log(getCurrentMonth());
+import { getYil, getOy } from './dateUtils.js';
+console.log(getYil());
+console.log(getOy());
